@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1](/IDW)
+<img src="file:///C:/Users/kalfr/OneDrive/Desktop/GIS%205253/Lab%20Assignments/LA%206/IDW%20Layout.pdf"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
